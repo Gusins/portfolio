@@ -1,11 +1,11 @@
 {
-  "name": "tech-titans",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/tech-titans/",
+    "build": "vite build --base=/portfolio/",
     "preview": "vite preview",
     "p": "bash push.sh"
   },
@@ -13,7 +13,7 @@
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleksandr Volokhov <alexandrvolokhov10@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "accordion-js": "^3.3.4",
@@ -28,7 +28,7 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fovardell/TechTitans.git"
+    "url": "git+https://github.com/Gusins/portfolio.git"
   },
   "keywords": [
     "team",
@@ -38,7 +38,8 @@
     "js"
   ],
   "bugs": {
-    "url": "https://github.com/Fovardell/TechTitans/issues"
+    "url": "https://github.com/Gusins/portfolio/issues"
   },
-  "homepage": "https://fovardell.github.io/tech-titans/"
+  "homepage": "https://gusins.github.io/portfolio/"
 }
+
